@@ -32,4 +32,4 @@ Fields:
 * "platform": Must always be "Smappee" (required)
 
 * "ip": The ip address of your Smappee. This can be found in your Smappee app >> More >> Smappee Energy >> Bottom line states web address, including ip address, for expert mode. (required)
-* "password": Password used to login to Smappee expert mode, default: admin.
+* "password": Password used to login to Smappee expert mode, default: admin. (optional)
