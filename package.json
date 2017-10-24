@@ -1,0 +1,24 @@
+{
+    "name": "homebridge-smappee",
+    "version": "1.0.0",
+    "description": "Smappee plugin for homebridge",
+    "license": "GNU GPLv3",
+    "preferGlobal": true,
+    "keywords": [
+        "homebridge-plugin",
+        "smappee"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/"
+    },
+    "engines": {
+        "node": ">=6",
+        "homebridge": ">=0.4.22"
+    },
+    "dependencies": {
+        "bluebird": "^3.2.2",
+        "request-promise": "^1.0.2",
+        "debug": "*"
+    }
+}
