@@ -10,7 +10,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/"
+        "url": "git://github.com/rglink/homebridge-smappee-platform.git"
     },
     "engines": {
         "node": ">=6",
