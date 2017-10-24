@@ -5,7 +5,7 @@ Smappee platform plugin for [HomeBridge](https://github.com/nfarina/homebridge)
 
 
 1. Install homebridge using: npm install -g homebridge
-2. Install this plugin using: npm install -g homebridge-???
+2. Install this plugin using: npm install -g homebridge-smappee-platform
 3. Update your configuration file. See sample-config.json snippet below. 
 
 
