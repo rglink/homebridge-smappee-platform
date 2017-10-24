@@ -32,7 +32,12 @@ module.exports = function (homebridge) {
 
 function SmappeePlatform(log, config) {
 	// auth info
-	this.password = config['password'];
+	if (config.hasOwnProperty("password")) {
+	  this.password = config["password"];
+	} else {
+	  this.password = "admin";
+	}
+	
 	this.url = 'http://' + config["ip"] + '/gateway/apipublic/';
 	this.config = config;
 	this.plugSetValue = false;
