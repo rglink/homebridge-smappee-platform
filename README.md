@@ -1,4 +1,4 @@
-# homebridge-smappee
+# homebridge-smappee-platform
 Smappee platform plugin for [HomeBridge](https://github.com/nfarina/homebridge)
 
 The plug-in currently loads the Smappee Comfort Plugs from the Smappee Energy Monitor and adds them as switches to HomeBridge/HomeKit. Each Comfort Plug can be assigned as being a switch, fan or lightbulb and will default to being a switch.
