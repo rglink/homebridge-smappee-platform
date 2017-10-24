@@ -1,4 +1,4 @@
-# homebridge-smappee
+# homebridge-smappee-platform
 Smappee platform plugin for [HomeBridge](https://github.com/nfarina/homebridge)
 
 # Installation
