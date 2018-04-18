@@ -1,8 +1,8 @@
 {
     "name": "homebridge-smappee-platform",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "description": "Smappee plugin for homebridge",
-    "license": "GNU GPLv3",
+    "license": "GPL-3.0",
     "preferGlobal": true,
     "keywords": [
         "homebridge-plugin",
